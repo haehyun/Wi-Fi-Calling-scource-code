@@ -1,5 +1,7 @@
 # Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling
 
+Paper: http://www.public.asu.edu/~hcho67/papers/WiNotCalling-acsac18.pdf
+
 ## Overview
 In this repository you will find the experimental data along with source code for our 'Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling' paper. 
 
